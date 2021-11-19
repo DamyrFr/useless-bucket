@@ -1,6 +1,6 @@
 # Useless bucket
 
-All of you know what is a [useless box](https://en.wikipedia.org/wiki/Useless_machine) !
+Everyone knows what is a [useless box](https://en.wikipedia.org/wiki/Useless_machine) !
 
 But we are at the cloud age, and we need an cloud version of the useless box. So I have create this project, to build this.
 
