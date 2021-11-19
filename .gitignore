@@ -1,0 +1,6 @@
+cal .terraform directories
+**/.terraform/*
+lambda_function_payload.zip
+# .tfstate files
+*.tfstate
+*.tfstate.*
